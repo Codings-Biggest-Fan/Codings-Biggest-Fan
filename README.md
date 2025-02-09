@@ -7,6 +7,7 @@ Portfolio: [[Portfolio](codings-biggest-fan.github.io)]
 
 ### Statistics
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh"/></a>
+<picture>  
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
