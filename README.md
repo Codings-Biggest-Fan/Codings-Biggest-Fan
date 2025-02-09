@@ -6,4 +6,4 @@ I am a coding enthusiast! **I just do it for fun** I am not one of those people 
 Portfolio: [[Portfolio](codings-biggest-fan.github.io)]
 
 ### Statistics
-<div align = left><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh"/></a></div><div align = right><a href = "https://github.com/anuraghazra/github-readme-stats"><image alt = "Codings Biggest Fan's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=Codings-Biggest-Fan&show_icons=true&theme=transparent"></a></div>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh"/></a><a href = "https://github.com/anuraghazra/github-readme-stats"><image alt = "Codings Biggest Fan's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=Codings-Biggest-Fan&show_icons=true&theme=transparent"></a>
