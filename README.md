@@ -6,6 +6,7 @@ I am a coding enthusiast! **I just do it for fun** I am not one of those people 
 Portfolio: [Portfolio](codings-biggest-fan.github.io)
 
 ### Statistics
+
 <details close>
 <summary>Dev Roadmap</summary>
 <div align="center">
