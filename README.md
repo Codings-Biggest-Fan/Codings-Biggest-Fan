@@ -12,10 +12,14 @@ Portfolio: [Portfolio](codings-biggest-fan.github.io)
  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh" width = "100%"/></a>
 </div>
 </details>
+<details open>
+<summary>GitHub Stats</summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codings-Biggest-Fan&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codings-Biggest-Fan&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codings-Biggest-Fan&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
+</details>
+
 
 
