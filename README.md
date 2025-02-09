@@ -10,8 +10,8 @@ Portfolio: [Portfolio](codings-biggest-fan.github.io)
 <details close>
 <summary>Dev Roadmap</summary>
 <div align="center">
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh" width = "69%%"/></a>
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh" width = "29%"/></a>
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh" width = "79%"/></a>
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh" width = "19%"/></a>
 </div>
 </details>
 <details open>
