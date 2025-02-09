@@ -8,4 +8,4 @@ Portfolio: [[Portfolio](codings-biggest-fan.github.io)]
 ### Statistics
 <div align = center> [![roadmap.sh](https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Cjava%2Csystem-design)](https://roadmap.sh) </div> 
 
-<div align = center>[![Codings Biggest Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codings-Biggest-Fan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div align = center> <a>[![Codings Biggest Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codings-Biggest-Fan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</a></div>
