@@ -17,7 +17,7 @@ Portfolio: [Portfolio](codings-biggest-fan.github.io)
 </div>
 </details>
 <details open>
-<summary>GitHub Stats <img src="https://github.com/user-attachments/assets/2cd4578b-04f9-4301-a930-83b148f1c064" alt = "stats"  width = "3%" />
+<summary>GitHub Stats <img src="https://github.com/user-attachments/assets/2cd4578b-04f9-4301-a930-83b148f1c064" alt = "stats"  width = "1.5%" />
 </summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codings-Biggest-Fan&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /></br>
