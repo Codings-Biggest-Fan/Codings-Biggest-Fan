@@ -5,11 +5,11 @@ I am a coding enthusiast! **I just do it for fun** I am not one of those people 
 
 Portfolio: [Portfolio](codings-biggest-fan.github.io)
 
-## Statistics![image](https://github.com/user-attachments/assets/155fa117-afc0-43c3-9cb0-22bf3d33cfdd)
+## Statistics! <img src = "https://github.com/user-attachments/assets/155fa117-afc0-43c3-9cb0-22bf3d33cfdd" width = "1.5%" />
 
 
 <details close>
-<summary>Dev Roadmap![image](https://github.com/user-attachments/assets/f5558051-2451-445c-a94e-8e27617edc50)
+<summary>Dev Roadmap <img src = "https://github.com/user-attachments/assets/f5558051-2451-445c-a94e-8e27617edc50" width = "1.5%" />
 </summary>
 <div align="center">
  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a7c0adf863343482e8e293?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Csystem-design" alt="roadmap.sh" width = "76%"/></a>
