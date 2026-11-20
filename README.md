@@ -1,9 +1,27 @@
-# Hi There 👋, I make projects for the for fun
+# Hi there 👋, I make projects for fun
+
 ## About Me
 
-I am a coding enthusiast! **I just do it for fun** I am not one of those people who watches the full youtube course, I like to get a more deep in dive. I am always hungry for knowlege. Though I know a lot there is always something new to learn, somthing waiting out there you can find some of the projects I made from courses or book mixed with some which I made **The best ones are pinned below**. I am working towards making more of my own. And useful tools I make will always stay free **(At least my personal ones I make on my own)** because I don't belive in paying 800 monthly subscriptions. I’m currently working on making games with java and making frontend web apps. I’m currently learning backend web development and low level programing. I’m looking to collaborate on games with some friends and ship out some apps for all os. I’m looking for help with regualar c because I dont know where to start and where everything is. A Fun fact: I use linux as my daily drive I use hyprland as my DE/Window-Manager, I usemany distros. I am keen on experimentation
+I'm Adit, and I code because I enjoy it. I'm not one of those people who watches the full YouTube course. I like to dive deep and figure out how things actually work, and there's always something new to learn.
 
-Portfolio: [Portfolio](codings-biggest-fan.github.io)
+Tools I make for myself will always stay free and open source, because I don't believe in paying for 800 monthly subscriptions.
+
+- 🔭 Currently building native apps in **Rust**: a lightweight MSI Center replacement and a board game
+- 🤖 Building scouting apps in **TypeScript** for my robotics team, [MVRT (FRC 115)](https://github.com/mvrt-115)
+- ⌨️ Designing my own keyboard, thanks to a Hack Club grant
+- 🌱 Learning backend development and low-level programming (C)
+- 🐧 Fun fact: Linux is my daily driver. I run Hyprland and hop between distros
+
+🖥️ **Portfolio:** [codings-biggest-fan.github.io](https://codings-biggest-fan.github.io/), a little Nord-themed Arch + Hyprland desktop in your browser
+
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Kestrel**](https://github.com/Codings-Biggest-Fan/kestrel) | Lightweight open-source MSI Center replacement: scenarios, fan curves, battery, RGB and monitoring, with a 50 MB RAM budget | Rust, Slint |
+| [**The Colonizers of Resourceville**](https://codings-biggest-fan.github.io/colonizers-of-resourceville-website/) | A native Colonist-style board game (Windows testing preview) | Rust |
+| [**Scout & SuperScout**](https://codings-biggest-fan.github.io/Scouting-Website/) | Match/pit scouting phone app and strategy laptop app for MVRT | TypeScript |
+| [**my-keyboard**](https://github.com/Codings-Biggest-Fan/my-keyboard) | Custom 60%-ish keyboard with F-keys and a volume knob | PCB, CAD |
 
 ## Statistics! <img src = "https://github.com/user-attachments/assets/155fa117-afc0-43c3-9cb0-22bf3d33cfdd" width = "1.5%" />
 
